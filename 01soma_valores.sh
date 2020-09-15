@@ -4,7 +4,7 @@
 #                                                 #
 # soma_valores.sh -Soma de dois valores           #
 #                                                 #
-# Autor: Denerson Silva (ddenerson@gmail.com)     #
+# Autor: Denerson Silva                           #
 # Data : 10/09/2020                               #
 #                                                 #
 # Descrição: Crie um script que após executado    #
