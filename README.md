@@ -3,9 +3,10 @@
 Compilado de scripts bash shell que foram essenciais para meu aprendizado e uso diario
 
 
-Basic 
+01 - Basico
+---------------------------------------------
 
-Projetos | Nome
----------------
-01     | Somar valores
-----------------
+POSIÇÃO|INFORMAÇÃO
+--------- | ------
+01 | soma valores
+
