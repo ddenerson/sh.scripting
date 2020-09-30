@@ -9,4 +9,5 @@ Compilado de scripts bash shell que foram essenciais para meu aprendizado e uso 
 POSIÇÃO|INFORMAÇÃO
 --------- | ------
 01 | soma valores
+02 | 
 
