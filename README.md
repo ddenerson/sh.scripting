@@ -8,6 +8,6 @@ Compilado de scripts bash shell que foram essenciais para meu aprendizado e uso 
 
 POSIÇÃO|INFORMAÇÃO
 --------- | ------
-01 | soma valores
-02 | relatorio_maq
+01 | <a href="https://github.com/ddenerson/sh.scripting/blob/master/01soma_valores.sh">soma valores<a/>
+02 | <a href="https://github.com/ddenerson/sh.scripting/blob/master/02relatorio_maq.sh">relatorio_maq</a>
 
